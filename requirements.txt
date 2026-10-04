@@ -1,0 +1,11 @@
+# UAP CSE 433: Peer-to-Peer Network Communication and File Sharing
+# This project uses Python's built-in standard libraries:
+# - socket (for TCP network communication)
+# - threading (for concurrent multi-peer handling)
+# - json (for message serialization)
+# - struct (for 4-byte length prefix binary framing)
+# - tkinter (for Graphical User Interface)
+# - uuid, os, sys
+#
+# No external third-party dependencies are required.
+# Compatible with Python 3.9+ (tested on Python 3.13)
